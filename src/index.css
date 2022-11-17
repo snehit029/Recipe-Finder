@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0% 10%;
+    background-color: aliceblue;
+}
+h3 {
+    font-size: 1.5rem;
+    line-height: 2.5rem;
+    margin: 2rem 0rem;
+}
